@@ -21,4 +21,8 @@ git config --global user.email "sugang7979@gamil.com"
 ```
 $ git config --list
 ```
+![image](https://github.com/gogoringhye/git_connect/assets/145514996/a9e35240-2415-4c9f-9599-7b06f4cf6792)
 
+👶 ⬆️의 내용은 git을 다운받은 뒤로 컴퓨터에 한번만 설치하면 됨
+
+--------
