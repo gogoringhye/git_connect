@@ -66,7 +66,7 @@ git remote add origin https://github.com/gogoringhye/webstandard.git
 5. 잘 연결되었는지 확인(필수 아님)
 ```
 
-git remote-v
+git remote -v
 ```
 
 6. GitGub에 자료 올리기
