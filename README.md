@@ -11,7 +11,7 @@
 git config --global user.name "gogoringhye"
 ```
 
-#github 가입시 입력한 이메일과 동일해야한다.
+# github 가입시 입력한 이메일과 동일해야한다.
 ```
 
 git config --global user.email "sugang7979@gamil.com"
