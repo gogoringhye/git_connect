@@ -76,3 +76,6 @@ git push origin master
 ```
 
 # ⬆️ 여기까지 하면 GitHub의 repository에 자료가 올라가 있다.
+
+
+그리고나서 netlify--> Sites--> Add new site--> import--> Deploy with GitHub--> 원하는 파일 업로드
