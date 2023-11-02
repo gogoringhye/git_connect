@@ -7,11 +7,11 @@
 
 ![image](https://github.com/gogoringhye/git_connect/assets/145514996/2f128e3b-0778-4127-baac-c974d0174f92)
 
-
-
-
-
+```
+git config --global user.name "gogoringhye"
+```
 
 ```
+
 git config --global user.name "gogoringhye"
 ```
