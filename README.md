@@ -17,3 +17,8 @@ git config --global user.name "gogoringhye"
 git config --global user.email "sugang7979@gamil.com"
 ```
 
+# 정보 확인하기
+```
+$ git config --list
+```
+
