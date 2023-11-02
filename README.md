@@ -29,4 +29,4 @@ $ git config --list
 
 --------
 
-GitHub에 코드 업로드하기
+GitHub에 코드 업로드하기      :
