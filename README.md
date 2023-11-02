@@ -32,6 +32,8 @@ $ git config --list
 # GitHub에 코드 업로드하기 🥶
 
 1. 초기화
+
+비주얼스튜디오에 폴더 끌어와서 터미널 누르고 git init 작성
 ```
 git init
 ```
