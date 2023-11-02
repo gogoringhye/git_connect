@@ -52,5 +52,6 @@ git add .
 git commit -m "내가 적고싶은 메세지" 
 ```
 # 메세지에는 한글이 가능함
+# -m은 메세지의 준말
 
-4. 
+4. Github repository랑 내 로컬 프로젝트랑 연결 
