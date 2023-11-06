@@ -33,7 +33,7 @@ $ git config --list
 
 1. 초기화
 
-비주얼스튜디오에 폴더 끌어와서 터미널 누르고 git init 작성
+비주얼스튜디오에 폴더 끌어와서 뉴터미널(clear 또는 cls 치면 에러난 것 정리 가능) 누르고 git init 작성
 ```
 git init
 ```
@@ -79,3 +79,6 @@ git push origin master
 
 
 그리고나서 netlify--> Sites--> Add new site--> import--> Deploy with GitHub--> 원하는 파일 업로드
+
+
+
