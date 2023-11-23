@@ -95,8 +95,10 @@ git push origin master
 git add .
 ```
 2. 히스토리 만들기
-- git commit -m "수정된 메세지(하고싶은 말)
-
+```
+git commit -m "두번째 수정(하고싶은 말)
+```
+3.
 - git push origin master
 ```
 **오류 뜰때**
