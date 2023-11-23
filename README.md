@@ -103,7 +103,8 @@ git commit -m "두번째 수정(하고싶은 말)
 git push origin master
 ```
 
-단) 올릴 때 오류가 발생한다면 
+# 🥵 단) 올릴 때 오류가 발생한다면 다시 git hub의 내용을 끌어와야한다.
+
 **오류 뜰때**
 ```
 - git pull origin master
@@ -111,3 +112,4 @@ git push origin master
 - git commit -m "수정된 메세지(하고싶은 말)
 
 - git push origin master
+```
