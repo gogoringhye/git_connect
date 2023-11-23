@@ -91,11 +91,11 @@ git push origin master
 
 [TERMINAL]
 ```
-git add.
-```
-git commit -m "수정된 메세지(하고싶은 말)
-```
-git push origin master
+- git add.
+
+- git commit -m "수정된 메세지(하고싶은 말)
+
+- git push origin master
 ```
 **오류 뜰때**
 ```
