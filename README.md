@@ -81,6 +81,10 @@ git push origin master
 그리고나서 netlify--> Sites--> Add new site--> import--> Deploy with GitHub--> 원하는 파일 업로드
 
 
+--------------
+# git hub에 계속 업데이트 하는 법 ⛑
+
+
 
 
 
