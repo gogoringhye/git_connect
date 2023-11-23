@@ -99,8 +99,8 @@ git push origin master
 ```
 **오류 뜰때**
 ```
-git pull origin master
-```
-git commit -m "수정된 메세지(하고싶은 말)
-```
-git push origin master
+- git pull origin master
+
+- git commit -m "수정된 메세지(하고싶은 말)
+
+- git push origin master
