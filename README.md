@@ -98,9 +98,12 @@ git add .
 ```
 git commit -m "두번째 수정(하고싶은 말)
 ```
-3.
-- git push origin master
+3. git hub에 올리기
 ```
+git push origin master
+```
+
+단) 올릴 때 오류가 발생한다면 
 **오류 뜰때**
 ```
 - git pull origin master
