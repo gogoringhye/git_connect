@@ -103,10 +103,12 @@ git commit -m "두번째 수정(하고싶은 말)
 git push origin master
 ```
 
-# 🥵 단) 올릴 때 오류가 발생한다면 다시 git hub의 내용을 끌어와야한다.
+# 🥵 단) 올릴 때 오류가 발생한다면 
 
 **오류 뜰때**
 ```
+다시 git hub의 내용을 끌어와야한다
+...
 git pull origin master
 ```
 히스토리 만들기
