@@ -84,21 +84,17 @@ git push origin master
 --------------
 # git hub에 계속 업데이트 하는 법 ⛑
 
-
-
-
-
 # 👀 수정된 파일 git hub에 올리는 법
 ※이전에 올린 깃허브 파일과 새로 올릴 파일 경로가 같아야 함
 ※VS에는 올릴 파일만 남겨두고 다 지워야함
 
-
 [TERMINAL]
 
-1.추가할 파일 더하기
+1. 추가할 파일 더하기
 ```
-- git add.
-
+git add .
+```
+2. 히스토리 만들기
 - git commit -m "수정된 메세지(하고싶은 말)
 
 - git push origin master
