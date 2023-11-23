@@ -94,6 +94,8 @@ git push origin master
 
 
 [TERMINAL]
+
+1.추가할 파일 더하기
 ```
 - git add.
 
